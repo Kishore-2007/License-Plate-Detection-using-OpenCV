@@ -1,0 +1,2 @@
+# License-Plate-Detection-using-OpenCV
+License Plate Detection using OpenCV and Haar Cascade Classifier
